@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<person>
+<firstName>Vladislav</firstName>
+<lastName>Gorbachev</lastName>
+<age>27</age>
+<pets>0</pets>
+<FutureSalary>100000</FutureSalary>
+</person>
